@@ -3,6 +3,7 @@
 
 
 void init(void);
-float getvar(char name[]);
-
+double getvar(char name[]);
+int GetUserChoice(void);
+int Calc(int);
 #endif
